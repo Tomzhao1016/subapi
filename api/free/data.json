@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "sub": "https:\/\/bansub4.bplink.xyz\/api\/v1\/client\/subscribe?token=9fcdc91a720d1a29b4f0f70b3485e038",
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "sub": "https:\/\/nb.wengmail.link\/api\/v1\/client\/subscribe?token=8b0d41cd41ec93bc88c9c93a6e3eca7e",
+        "status": "new"
+    },
+    {
+        "id": 3,
+        "sub": "https:\/\/sub.sheepcloud.xyz\/api\/v1\/client\/subscribe?token=7e4f07992d4c4bc3d5264991a3cae04c",
+        "status": "new"
+    },
+    {
+        "id": 4,
+        "sub": "http:\/\/msvpn.gougouvpn.xyz:88\/api\/v1\/client\/subscribe?token=714e611674276ddd378bb8287464ad3f",
+        "status": "new"
+    }
+]
