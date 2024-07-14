@@ -1,4 +1,4 @@
-<?php
+<?php 
 // 定义JSON文件路径
 define('JSON_FILE', 'data.json');
 
